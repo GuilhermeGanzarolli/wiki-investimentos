@@ -6,6 +6,7 @@ Conta com as seguintes páginas:
 - Investimentos
 - Renda Fixa
 - Ações
+
 O objetivo principal deste projeto foi exercitar o uso de novas tags de estruturação aprendidas no decorrer do curso. (header, nav, main, footer, figure, etc). Além de deixar o site acessível para usuários com deficiência visual.
 ## 📚 Documentacao
 - HTML
